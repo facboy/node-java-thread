@@ -1,0 +1,7 @@
+{
+    "name": "node-java-thread",
+    "version": "0.0.1",
+    "devDependencies": {
+        "java": "^0.4.2"
+    }
+}
